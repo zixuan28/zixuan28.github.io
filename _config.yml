@@ -22,14 +22,14 @@ repository               : "zixuan28/zixuan28.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "林子轩 Zixuan Lin"
   pronouns         : "he/him"  
-  bio              : "I am a undergraduate student at the University of Washington, majoring in Economics and Mathematics. I am interested in causual inference, random processes, networks, finance consulting, and pressing public helath issues. I am also a member of the UW AI4ALL program, where I work on projects related to AI and social good."
+  bio              : "I am a undergraduate student at the University of Washington, majoring in Economics and Mathematics. I have a geniue care about the world and would like to apply statitics to solve them."
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
-  email            : "zlin28@uw.edu" 
+  email            : "zlin28@uw.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

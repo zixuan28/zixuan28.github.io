@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My Resume](https://zixuan28.github.io/assets/Zixuan_s_Resume.pdf)
+[Download My Resume](https://github.com/zixuan28/zixuan28.github.io/blob/master/assets/Zixuan_s_Resume.pdf)
 
 # Education
 

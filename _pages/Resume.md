@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Academic"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download My Resume](https://github.com/zixuan28/zixuan28.github.io/blob/master/assets/Zixuan_s_Resume.pdf)
-
 # Education
 
 -   B.A. in [Economics with Honors](https://econ.washington.edu/economics-honors-program) & [Mathematics](https://math.washington.edu), University of Washington, 2025 (expected)
     -   7 quarters of dean's list
-    -   relevant coursework: Advanced Microeconomics, Advanced Macroeconomics, Advanced Econometrics, Computational Finance, Data Science Computing for Economics, Calculus, Ordinary Differential Equation, Real Analysis, Nonlinear Optimization, Numerical Analysis, Probability Theory, Stochastic Processes, Advanced Linear Algebra
+    -   relevant coursework: Nonlinear Optimization, Real Analysis, Numerical Analysis, Random Processes, Linear Algebra, Ordinary Differential Equations, Multi-variable Calculus, Data Science Computing with Applications in Economics, Computational Finance, Econometrics, Causal Inference, Macroeconomics, Microeconomics
 
 # Passed Actuarial Papers
 
@@ -37,4 +35,4 @@ redirect_from:
 
 # Publications
 
-Currently working on my honors thesis, will publish it once I am done. If you want to learn more about my thesis, I will provide more details on the publication page!
+I am currently waiting to hear back from the Berkeley Economics Review. I recently submitted my honors thesis there.

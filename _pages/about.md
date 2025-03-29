@@ -1,5 +1,5 @@
 ---
-title: "Zixuan Lin"
+title: ""
 permalink: /
 author_profile: true
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
 - /about.html
 ---
 
-Hi
+[Click Here To Download My Resume](https://github.com/zixuan28/zixuan28.github.io/blob/master/assets/Zixuan_s_Resume.pdf)
 
 # Welcome to my personal website!
 

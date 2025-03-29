@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 -   B.A. in [Economics with Honors](https://econ.washington.edu/economics-honors-program) & [Mathematics](https://math.washington.edu), University of Washington, 2025 (expected)
-    -   7 quarters of dean's list
+    -   8 quarters of dean's list
     -   relevant coursework: Nonlinear Optimization, Real Analysis, Numerical Analysis, Random Processes, Linear Algebra, Ordinary Differential Equations, Multi-variable Calculus, Data Science Computing with Applications in Economics, Computational Finance, Econometrics, Causal Inference, Macroeconomics, Microeconomics
 
 # Passed Actuarial Papers
@@ -33,6 +33,9 @@ redirect_from:
     -   build-in SQL
 -   LaTex
 
-# Publications
+# Other Skills
 
-I am currently waiting to hear back from the Berkeley Economics Review. I recently submitted my honors thesis there.
+-   Microsoft Office 365: Word, Excel, PowerPoint
+-   Canva
+-   Fluent in Mandarin & English
+-   Started learning Japanese (N3)

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Version](../../assets/files/Zixuan_s_Resume.pdf)
+[Download PDF Version](./assets/Zixuan_s_Resume.pdf)
 
 # Education
 

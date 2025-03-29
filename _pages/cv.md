@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Version](https://www.overleaf.com/download/project/67e6f8f7ee017aba3fc70e06/build/195df3674e1-3d023d9bddf47f45/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-jk9f&enable_pdf_caching=true&popupDownload=true)
+[Download PDF Version](/求职/Zixuan_s_Resume.pdf)
 
 # Education
 

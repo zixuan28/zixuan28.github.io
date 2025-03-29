@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF Version](/求职/Zixuan_s_Resume.pdf)
+[Download PDF Version](/desktop/求职/Zixuan_s_Resume.pdf)
 
 # Education
 

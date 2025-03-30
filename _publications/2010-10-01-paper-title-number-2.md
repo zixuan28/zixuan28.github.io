@@ -11,4 +11,4 @@ paperurl: #'http://academicpages.github.io/files/paper2.pdf'
 citation: 'will not be published'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The [WXML](http://www.wxml.math.washington.edu/?page_id=51), also known for the Washington eXperimental Mathematics Lab, is a website that provides various undergraduate research opportunities quarterly. I am lucky enough to be recommended to participate in one of the research projects in Spring 2025, which studies advanced data science techniques and tools based on recent work and experience from Microsoft’s Graph Intelligence Sciences Team ([more descriptions here](http://www.wxml.math.washington.edu/?page_id=1459)).

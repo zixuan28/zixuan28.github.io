@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Zixuan Lin's Personal Website"
 author_profile: true
 redirect_from: 

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "林子轩 Zixuan Lin"
 title_separator          : "-"
 name                     : &name "Zixuan Lin"
-description              : &description "personal description"
+description              : &description "I am passionate about statistics, math, economics, and some other things"
 url                      : https://zixuan28.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Master's student majoring in Statistics"
@@ -26,7 +26,7 @@ author:
   name             : "林子轩 Zixuan Lin"
   pronouns         : "he/him" 
   bio              : "I am actively seeking data scientist intern oppertunities"
-  location         : "USA"
+  location         : "Seattle, WA, USA"
   employer         : "Duke University"
   uri              : # URL
   email            : "zixuan.lin@duke.edu" 
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "zixuan28"
-  kaggle           : # Username  
+  kaggle           : "zixuanlin1118"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "zixuan-lin1118'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

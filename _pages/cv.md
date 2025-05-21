@@ -14,22 +14,12 @@ Education
 * M.S. in Durham, Duke University (expected 2027)
 * B.A. in Seattle, University of Washington, 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Undergraduate Student Researcher
+  * University of Washington, Department of Mathematics
+  * Supervisor: Tvertko Tadic
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
